@@ -48,9 +48,24 @@ The game displays your current room, inventory, available exits, and any tool in
 
 ## Programming Skills Practiced
 
-* Nested dictionaries for room connections and items
-* Lists for inventory management
-* Functions for instructions, status
+- Nested dictionaries for room connections and items
+- Lists for inventory management
+- Functions for instructions, player status, and game logic
+- Loops and conditional branching
+- String processing and user input validation
+- Win and loss conditions
+
+## Future Improvements
+
+- Add help and exit commands
+- Include additional cybersecurity challenges
+
+## Acknowledgment
+
+Created for IT 140: Introduction to Scripting.
+OpenAI ChatGPT assisted with drafting and testing the code,
+as acknowledged in the source file.
+
 * ## Gameplay Screenshot
 
 ![CyberAttack gameplay](python%20text%20game.jpg)
