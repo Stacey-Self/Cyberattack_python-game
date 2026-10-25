@@ -50,4 +50,7 @@ The game displays your current room, inventory, available exits, and any tool in
 
 * Nested dictionaries for room connections and items
 * Lists for inventory management
-* Functions for instructions, status, a
+* Functions for instructions, status
+* ## Gameplay Screenshot
+
+![CyberAttack gameplay](gameplay.png)
