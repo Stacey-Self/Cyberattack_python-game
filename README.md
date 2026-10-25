@@ -53,4 +53,4 @@ The game displays your current room, inventory, available exits, and any tool in
 * Functions for instructions, status
 * ## Gameplay Screenshot
 
-![CyberAttack gameplay](gameplay.png)
+![CyberAttack gameplay](python%20text%20game.jpg)
